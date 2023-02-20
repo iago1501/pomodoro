@@ -4,7 +4,7 @@ Aplicação implementando a técnica de Pomodoro usando React e Vite
 
 ## Configuraçõs Iniciais
 
-Apenas clonar o repositório e rodar "yarn" para instalar as dependências do projeto
+Apenas clonar o repositório e realizar o install das dependências e rodar, detalhes abaixo:
 
 ## Scripts disponíveis
 
