@@ -56,6 +56,7 @@ export function Countdown() {
 
   useEffect(() => {
     if (!activeCycle) {
+      document.title = `Pomodoro App`
       return
     }
 
